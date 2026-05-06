@@ -207,6 +207,5 @@ ping IPv6 → OK jusqu’à R3
 
 Ce projet démontre la mise en place complète d’une infrastructure réseau optimisée, en appliquant les bonnes pratiques de segmentation, d’adressage IP et de routage.
 
-👉 Il illustre une approche proche des environnements réels d’entreprise.
 
 ---
